@@ -25,7 +25,7 @@
 
 ## 项目进展
 
-目前，本项目的核心源码已完成。如果您想看到一个实际的示例，请访问 [www.phpzlc.com/doc](https://www.phpzlc.com/doc)。
+目前，本项目的核心源码已完成。如果您想看到一个实际的示例，请访问 [phpzlc.com/doc](https://phpzlc.com/doc)。
 
 ## 加入我们
 
